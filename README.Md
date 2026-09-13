@@ -1,11 +1,11 @@
 # HR Employee Power BI Dashboard
 
-## 📊 Project Overview
+## Project Overview
 This project is an HR Employee Dashboard created using Microsoft Power BI.
 
 The dashboard provides insights into employee demographics, departments, salaries, performance ratings, and employment status.
 
-## 🗂️ Dataset
+## Dataset
 The dataset contains 500 employee records.
 
 ### Columns
@@ -20,7 +20,7 @@ The dataset contains 500 employee records.
 - Employment Status
 - Joining Date
 
-## 📈 Dashboard Analysis
+## Dashboard Analysis
 - Total Employees
 - Employees by Gender
 - Employees by Department
@@ -30,17 +30,17 @@ The dataset contains 500 employee records.
 - Employees by Age
 - Interactive Filters/Slicers
 
-## 🛠️ Tools Used
+## Tools Used
 - Microsoft Power BI
 - Microsoft Excel
 
-## 🎯 Key Skills
+## Key Skills
 - Data Visualization
 - Data Analysis
 - Dashboard Creation
 - KPI Analysis
 - Interactive Slicers
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ![HR Employee Power BI Dashboard](HR_Employee_PowerBI_Dashboard.png)
